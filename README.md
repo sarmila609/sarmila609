@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm Sarmila Das 👋
 
-<!--
-**sarmila609/sarmila609** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineer | AI/ML Enthusiast | Full Stack Developer
 
-Here are some ideas to get you started:
+I am a B.Tech Computer Science graduate passionate about building impactful software and AI-driven solutions.  
+I enjoy solving real-world problems using Machine Learning, Deep Learning, Computer Vision, and Full Stack Development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+- 🎓 B.Tech in Computer Science & Engineering
+- 🤖 Interested in AI/ML, Deep Learning & Generative AI
+- 💻 Skilled in Full Stack Development
+- 🌱 Currently learning Advanced DSA, System Design & GenAI
+- 🎯 Open to Software Engineer, AI/ML, and Full Stack roles
+
+---
+
+## 🛠 Tech Stack
+**Languages:** Python, Java, JavaScript, SQL  
+
+**Frontend:** ReactJS, HTML, CSS  
+
+**Backend:** NodeJS, ExpressJS, REST APIs  
+
+**Database:** MySQL, MongoDB  
+
+**AI/ML:** TensorFlow, Keras, OpenCV, Deep Learning, Computer Vision  
+
+**Tools:** Git, GitHub, Linux, Docker, Excel  
+
+---
+
+## 🌟 Featured Projects
+- 🌿 Leaf Disease Classification using Deep Learning
+- 🎥 AI Proctoring System
+- 🔐 Network Intrusion Detection System
+- 📚 Learning Management System
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: www.linkedin.com/in/sharmila-das-70069b276
+- Email: sharmiladas609@gmail.com
