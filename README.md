@@ -30,6 +30,12 @@ I enjoy solving real-world problems using Machine Learning, Deep Learning, Compu
 **Tools:** Git, GitHub, Linux, Docker, Excel  
 
 ---
+![Python](https://img.shields.io/badge/Python-Expert-blue)
+![Java](https://img.shields.io/badge/Java-Intermediate-orange)
+![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow)
+![React](https://img.shields.io/badge/React-Frontend-blue)
+![NodeJS](https://img.shields.io/badge/NodeJS-Backend-green)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-AI-orange)
 
 ## 🌟 Featured Projects
 - 🌿 Leaf Disease Classification using Deep Learning
@@ -37,6 +43,8 @@ I enjoy solving real-world problems using Machine Learning, Deep Learning, Compu
 - 🔐 Network Intrusion Detection System
 - 📚 Learning Management System
 
+![Sarmila's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarmila609&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarmila609&layout=compact&theme=tokyonight)
 ---
 
 ## 📫 Connect With Me
